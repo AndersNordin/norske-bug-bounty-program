@@ -11,7 +11,7 @@
 |[Morgenbladet](https://morgenbladet.no)|-|[Offentlig](https://www.morgenbladet.no/kundeservice/)|<span title="Penger">💰</span>|?|-|
 |[NBX](https://nbx.com)|-|[Responsible Disclosure Program](https://nbx.com/en/security)|<span title="Penger">💰</span>|?|-|
 |[NRK](https://nrk.no)|-|[Responsible Disclosure Program](https://info.nrk.no/responsible-disclosure-policy/)|<span title="Hall of Fame">🏆</span>|?|-|
-|[Oda](https://oda.com)|[Intigriti](https://intigriti.com)|[Offentlig](https://app.intigriti.com/researcher/programs/oda/oda)|<span title="Penger">💰</span>|Apr. 2022|[Medium](https://medium.com/oda-product-tech/oda-is-launching-our-bug-bounty-program-8e356d5ac0d3)||
+|[Oda](https://oda.com)|[YesWeHack](https://yeswehack.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|Apr. 2022|[Medium](https://medium.com/oda-product-tech/oda-is-launching-our-bug-bounty-program-8e356d5ac0d3)||
 |[Schibsted](https://schibsted.com)|[Bugcrowd](https://bugcrowd.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|?|[security.txt](https://vg.no/.well-known/security.txt)|
 |[Signicat](https://www.signicat.com)|[Intigriti](https://intigriti.com)|[Offentlig](https://app.intigriti.com/programs/signicat/signicatresponsibledisclosure/detail)|<span title="Hall of Fame">🏆</span>|?|-|
 |[Sparebank 1](https://sparebank1.no/)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|Nov. 2021|[kode24](https://www.kode24.no/artikkel/slik-blir-du-dusorjeger-for-sparebank-1/76160552)||
